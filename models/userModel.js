@@ -50,6 +50,7 @@ const userSchema = new mongoose.Schema({
 });
 
 // -- Password Encryption
+
 // --- Mongoose pre('save') Middleware
 userSchema.pre('save', async function (next) {
   // Only run this function if the password was actually modified ( this == document)
