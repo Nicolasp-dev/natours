@@ -110,7 +110,7 @@ const tourSchema = new mongoose.Schema(
         ref: 'User',
       },
     ],
-  },
+},
   {
     toJSON: { virtuals: true },
     toObject: { virtuals: true },
@@ -120,6 +120,13 @@ const tourSchema = new mongoose.Schema(
 // Virtual properties. No persisted fields in the DB.
 tourSchema.virtual('durationWeeks').get(function () {
   return this.duration / 7;
+});
+
+// Virtual populate
+tourSchema.virtual('reviews', {
+  ref: 'Review',
+  foreignField: 'tour',
+  localField: '_id',
 });
 
 // Mongoose Middleware
