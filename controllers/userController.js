@@ -11,6 +11,11 @@ const filterObj = (obj, ...allowedFields) => {
   return newObj;
 };
 
+exports.getMe = (req, res, next) => {
+  req.params.id = req.user.id;
+  next();
+};
+
 // HANDLING -- GET -- REQUEST
 
 exports.deleteMe = catchAsync(async (req, res, next) => {
