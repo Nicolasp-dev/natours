@@ -21,6 +21,27 @@
   box-sizing: inherit;
 }
 
+.reviews::-webkit-scrollbar { 
+  height: 14px; 
+  background: rgba(245, 245, 245, 0.519);
+}
+
+.reviews::-webkit-scrollbar-track {
+  height: 10px;
+}
+
+.reviews::-webkit-scrollbar-thumb {
+  background: rgba(80, 80, 80, 0.887);
+  margin: 1px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+
+
 html {
   font-size: 62.5%;
   -webkit-box-sizing: border-box;
