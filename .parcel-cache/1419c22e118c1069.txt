@@ -304,7 +304,7 @@
 150C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\yaml\dist\legacy-exports.js133083368212086178 0
 158C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\core-js\es\reflect\to-string-tag.js133083368301773616 0
 169C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\postcss-modules\node_modules\postcss\README.md133083368226575057 0
-140C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\public\js\bundled\index.js.map133083448936892983 0
+140C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\public\js\bundled\index.js.map133083503166156316 0
 137C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\path-is-inside133083368198444568 1
 150C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\public-encrypt\package.json133083368195520288 0
 138C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\readable-stream133075548287556273 1
@@ -417,7 +417,7 @@
 130C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\routes\tourRoutes.js133078989188210195 0
 140C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\mongodb\lib\db.js133075548288416275 0
 126C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\public\tour.html133003318301929897 0
-130C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\routes\userRoutes.js133077342457737117 0
+130C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\routes\userRoutes.js133083500830524044 0
 132C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\json5\lib133083368212706182 1
 207C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false\src\index.js133083368229776231 0
 162C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\cssstyle\scripts\generate_properties.js133083368240873737 0
@@ -492,7 +492,7 @@
 158C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\css-selector-tokenizer\package.json133083368207614733 0
 131C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\svgo\bin133083368197397151 1
 148C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\http-signature\.npmignore133083368197097186 0
-127C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\public\js\bundled133083448936902889 1
+127C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\public\js\bundled133083503166166266 1
 132C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\regex-not133083368199874291 1
 148C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\pug-code-gen\package.json133080669277469576 0
 131C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\domutils133083368214645777 1
@@ -504,11 +504,11 @@
 179C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\ora\node_modules\readable-stream\lib\_stream_readable.js133083368202021859 0
 212C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\package.json133083368240095647 0
 133C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\type-check133083368199684292 1
-128C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\public\js\index.js133083442735142350 0
+128C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\public\js\index.js133083502743647246 0
 132C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\get-value133083368198199212 1
 161C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\@babel\traverse\lib\scope\index.js.map133083368234967113 0
 157C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\highlight.js\lib\languages\haml.js133083368261102241 0
-128C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\public\js\login.js133083448113767853 0
+128C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\public\js\login.js133083501653986677 0
 159C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\relateurl\lib\relate\findRelation.js133083368213562677 0
 155C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\has-property-descriptors\LICENSE133083368198970175 0
 157C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\@ampproject\remapping\package.json133083368199804285 0
@@ -544,7 +544,7 @@
 173C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\@parcel\reporter-dev-server\src\templates\500.html133083368225642508 0
 148C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\lmdb-store\dict\dict2.txt133083368270339784 0
 152C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\@parcel\utils\lib\Deferred.js133083368229766230 0
-136C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\public\js\bundled\index.js133083448936862925 0
+136C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\public\js\bundled\index.js133083503166096267 0
 132C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\saxes\lib133083368205493777 1
 144C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\pug-linker\HISTORY.md133080669277834197 0
 142C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\node_modules\lodash\fp\reject.js133075601177536867 0
@@ -22265,7 +22265,7 @@
 142C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\dev-data\data\import-dev-data.js133077493674862599 0
 136C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\dev-data\data\reviews.json133003318294892116 0
 134C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\dev-data\data\tours.json133003318295928420 0
-139C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\controllers\authController.js133083275059914615 0
+139C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\controllers\authController.js133083499124989441 0
 139C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\controllers\handlerFactory.js133077291868642113 0
 139C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\controllers\userController.js133077310306078490 0
 119C:\Users\nicol\OneDrive\Documentos\Web Dev\Udemy\NodeJS-Jonas\complete-node-bootcamp-master\4-natours\starter\.cache\02133083287220891413 1
